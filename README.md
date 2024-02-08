@@ -3,6 +3,9 @@ Encode &amp; Decode Hidden Data within URLs
 ```
 # Checkout customTextEncoder.py __main__ for more example usage
 ```
+ADDED GOOGLE REDIRECT!!! BINGO!!!!
+
+https://www.google.com/url?q=https://open.akeyo.io&source=gmail&ust=1707518250678000&usg=AOvVaw1DDBl6EBxszRvXukQsEtyK&#anywhere.com
 ### + Added Open Redirects & Eval
 ```
 # Checkout app.py, open.html, run.html
