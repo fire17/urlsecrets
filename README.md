@@ -7,7 +7,7 @@ Encode &amp; Decode Hidden Data within URLs
 
 https://www.google.com/url?q=https://open.akeyo.io&source=gmail&ust=1707518250678000&usg=AOvVaw1DDBl6EBxszRvXukQsEtyK&#anywhere.com
 #### And Obfuscated!
-https://www.google.com/url?q=%68%74%74%70%73://%6f%70%65%6e.%61%6b%65%79%6f.%69%6f&source=gmail&ust=1707518250678000&usg=AOvVaw1DDBl6EBxszRvXukQsEtyK&#anywhere.com'
+https://www.google.com/url?q=%68%74%74%70%73://%6f%70%65%6e.%61%6b%65%79%6f.%69%6f&source=gmail&ust=1707518250678000&usg=AOvVaw1DDBl6EBxszRvXukQsEtyK&#anywhere.com
 ### + Added Open Redirects & Eval
 ```
 # Checkout app.py, open.html, run.html
