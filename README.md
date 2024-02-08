@@ -3,7 +3,10 @@ Encode &amp; Decode Hidden Data within URLs
 ```
 # Checkout customTextEncoder.py __main__ for more example usage
 ```
-
+### + Added Open Redirects & Eval
+```
+# Checkout app.py, open.html, run.html
+```
 ### + new %XX hex url obfuscation
 ```
 from obfuscate import obfuscate_url, reveal_url
